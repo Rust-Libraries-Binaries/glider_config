@@ -1,0 +1,10 @@
+# Rust specific
+/target/
+**/*.rs.bk
+
+# IDE-specific
+/.idea/
+/.vscode/
+
+# Temporary test files
+test_config.*

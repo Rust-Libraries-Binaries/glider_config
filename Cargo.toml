@@ -1,6 +1,14 @@
 [package]
 name = "glider_config"
 version = "0.1.0"
+authors = ["Your Name <youremail@example.com>"]
 edition = "2021"
+description = "A minimal configuration loader for JSON, TOML, and YAML formats."
+repository = "https://github.com/bensatlantik/glider_config"
+license = "MIT"
 
 [dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+toml = "0.5"
+serde_yaml = "0.8"
