@@ -1,10 +1,5 @@
-# Rust specific
+# Ignore compiled output
 /target/
-**/*.rs.bk
 
-# IDE-specific
-/.idea/
-/.vscode/
-
-# Temporary test files
-test_config.*
+# Ignore Cargo lock file for libraries
+Cargo.lock

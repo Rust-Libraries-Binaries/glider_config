@@ -1,7 +1,7 @@
 [package]
 name = "glider_config"
-version = "0.1.0"
-authors = ["Your Name <youremail@example.com>"]
+version = "0.1.1"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
 edition = "2021"
 description = "A minimal configuration loader for JSON, TOML, and YAML formats."
 repository = "https://github.com/bensatlantik/glider_config"
