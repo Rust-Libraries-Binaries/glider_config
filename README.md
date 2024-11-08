@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # glider_config
 
 `glider_config` is a minimal Rust library for loading configuration files in JSON, TOML, and YAML formats. This crate is designed to keep things lightweight and simple, making it easy to integrate basic configuration management into your Rust projects.
@@ -68,4 +72,4 @@ cargo test
 This project is licensed under the MIT License.
 
 ## Author
-Ben Santora (<bensatlantik@gmail.com>)
+Ben Santora 
